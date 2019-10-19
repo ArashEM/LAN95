@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=E Pin=P2-13
+Removed Pin From Net: NetName=E Pin=P2-13
+Change Component Library : Designator=P1 Old Library=Connector_IntLib.IntLib New Library=Conn_Schlib.SchLib
+Added Pin To Net: NetName=GND Pin=P1-5

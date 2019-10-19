@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Schematic_1 Member=LAN1
+Removed Member From Class: ClassName=Schematic_1 Member=P1
+Added Class: Name=USB_ETH_Sch
+Added Room: Name=USB_ETH_Sch

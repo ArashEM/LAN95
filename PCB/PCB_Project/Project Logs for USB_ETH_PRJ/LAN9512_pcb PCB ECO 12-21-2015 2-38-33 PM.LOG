@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=USB2_N Pin=P3-2
+Removed Pin From Net: NetName=USB2_P Pin=P3-3
+Removed Pin From Net: NetName=USB3_N Pin=P3-6
+Removed Pin From Net: NetName=USB3_P Pin=P3-7
+Removed Pin From Net: NetName=PWRB Pin=U3-5
+Removed Pin From Net: NetName=PWRA Pin=U3-8
+Added Pin To Net: NetName=USB3_N Pin=P3-2
+Added Pin To Net: NetName=USB3_P Pin=P3-3
+Added Pin To Net: NetName=USB2_N Pin=P3-6
+Added Pin To Net: NetName=USB2_P Pin=P3-7
+Added Pin To Net: NetName=PWRA Pin=U3-5
+Added Pin To Net: NetName=PWRB Pin=U3-8
+Change Net Name : Old Net Name=PWRA New Net Name=PWRB
+Change Net Name : Old Net Name=PWRB New Net Name=PWRA

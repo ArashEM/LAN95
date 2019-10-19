@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Added Component: Designator=D2(SMD_LED_1206)
+Added Component: Designator=R15(C1206)
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=PWRB Pin=R14-2
+Added Pin To Net: NetName=PWRA Pin=R15-2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R15-1
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=USB_ETH_Sch Member=Component D2 LED0
+Added Member To Class: ClassName=USB_ETH_Sch Member=Component R15 Res1

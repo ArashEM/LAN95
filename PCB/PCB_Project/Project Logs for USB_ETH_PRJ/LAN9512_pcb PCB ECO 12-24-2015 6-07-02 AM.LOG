@@ -1,0 +1,9 @@
+Added Component: Designator=D3(SMD_LED_1206)
+Added Component: Designator=R16(C1206)
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=VCC3V3 Pin=R16-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R16-1
+Added Net: Name=NetD3_1
+Added Member To Class: ClassName=Schematic_1 Member=Component D3 LED0
+Added Member To Class: ClassName=Schematic_1 Member=Component R16 Res1

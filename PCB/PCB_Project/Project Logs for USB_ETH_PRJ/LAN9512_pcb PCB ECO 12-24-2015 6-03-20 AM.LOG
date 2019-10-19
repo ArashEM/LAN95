@@ -1,0 +1,8 @@
+Added Component: Designator=D?(SMD_LED_1206)
+Added Component: Designator=R?(C1206)
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-1
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=USB_ETH_Sch Member=Component D? LED0
+Added Member To Class: ClassName=USB_ETH_Sch Member=Component R? Res1

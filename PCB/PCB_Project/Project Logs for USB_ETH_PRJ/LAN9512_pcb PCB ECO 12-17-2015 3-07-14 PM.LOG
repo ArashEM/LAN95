@@ -1,0 +1,6 @@
+Added Component: Designator=LAN1(RJ45)
+Added Component: Designator=P1(USB_Duble)
+Added Component: Designator=P2(Mini USB)
+Added Component: Designator=U1(QFN64)
+Added Class: Name=Schematic_1
+Added Room: Name=Schematic_1

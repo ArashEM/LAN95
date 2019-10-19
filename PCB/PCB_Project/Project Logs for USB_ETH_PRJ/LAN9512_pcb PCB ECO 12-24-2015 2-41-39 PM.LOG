@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=E Pin=P2-13
+Removed Pin From Net: NetName=E Pin=P2-13
+Added Component: Designator=C38(C0805)
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=VDD3V3A Pin=C38-2
+Added Pin To Net: NetName=E Pin=P1-8
+Added Member To Class: ClassName=USB_ETH_Sch Member=Component C38 Cap
